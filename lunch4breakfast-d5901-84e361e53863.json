@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lunch4breakfast-d5901",
+  "private_key_id": "84e361e53863c88ff008fe5c8ecc7a3bf38dd2d0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCoa0XeIdhesNkM\nfAuLcktaQNSJ+mfvgqjdQo7TZJeT8vaJsVuquPmAY+G5AEdf/0nB6uNVm7ctV3Og\npO0MMMX/mgVQdU6l/KI2DzmGBSnVWeHWqCx03yhlsmoS+0OBqxYGgY/6bN/F64+t\nmGmqTYUVtRBg+ACac0qDtI9Z2Tty/W/d3w+/HbsKhTwP38jmxLJfbwV+gSS99sop\nh+RrA+n0UZIOpqE2RqVCL1aHS7tMNGLk8DfF5qqXjbE9UVR9OWyyBwPXMYnznddd\nUoig0UXF4va64TFXzfkAQW+tvaRQbdeJQ+Nv+0CZkpNvb3XLjWQJaW0xzw3nke0E\nzCgHHLdtAgMBAAECggEAA+qasVOwKGOMaJHp4tBBmFOxnZPJHvS24I5Pq/LG45Xe\nzczmCM5MXwPzl8292ymgmXXQ24jHdbJ26eFr8cCgmhUG0pwnvAxn6UHpYIh2NJPm\ngItgnUcjNVo0xUQ6iaVk2bnhkz085ulXaf4FVwR+d8bCHr8lpHHR5cYpHznB/CaG\n7vRQXgwe6RfUcuHMF83QVdU3b7Ih7CYbaVF5OYzwWmkD6uGPHc9GiA/Sq6JHD5Ng\ngQcaazhIrQQV3gaaxdzgC9Bk+BUx/cxEeOPhBc2YoK857U2hvLYMhibdRAt4Fh19\namWSe9Y8YXUzTikwXRwX5nP+cfY7LWBxn36Za6lbsQKBgQDShtOK3RWu+NNnGaK8\nToSZgbXs19Ec7IXr3RzVNvif5yXfCjb4W/teeWXzBGPH7SAlPDw81QM0yq+zYLmf\nnt+nY6NzGCpSS3J1c+96lco8fbl4sew+DzauEbjvSctALBEywmPhUgPQ8uIX+D0C\nK/LzzImSeDFlno+7m6uofJFgnwKBgQDMzBW2NURb0r8C3lgZF5gYQOfqzr0ycAIT\nefW4BKWCmgsOalHCfdb6TBYzOYIJ572M4Im+FAvK6k23oLZ7AVlzN3hDZUy/jZXV\n9Wwj7wn8zeXcr6qHYijkGEt0eqslY0HYiI6O+5P0vfDbqCn27tAFpbYLckd19RUs\nt7Qqf/+wcwKBgQCjg6DOnET5L75St7CT/ZA0AnEg0cdTZcnmlkiMujOFTu01PSPQ\n5vBoQnYSuHgfkmeDRDOtM+1XlY2+DwRdm/Iues8616wXWw49d5yrY6g+L5Bc1CSf\nVwWrUYyIHpLE9vUsrZsSKLdaFSvSXjZUd3ouLdE0eDI1sWAF4TUEmiv4FQKBgQC/\nIC+bDncvYqzUloCNWlGdQOWvYyV6rsGhP46sH9n+2pg66cpHwn0gtmV5hM/xQo7J\nrLuf4sFmq+e/2YKzpPy/5CKecyl/Ezmkphg4KNufTOCaZm61TkxvIqU4nUqf59QJ\nqtewZOUd4S2pMXWIeDM3MgGFCS/by8/pHcBMcYxENQKBgQDOkQ+3UHonlZcLmRFd\noSD2O/SCmjzrZQtU4QRlnexQKdvhG31xJUrw6hmO6AbrAuMSy2GiMa3wsYKsyOnB\nr476lDSvDucRYtGLMMJ4eHUe9bOlZu0TNLZJQenTmUGbKT51rpFGAroC0hFnN8ie\n/X09HISaoFelTNzuwuOuvbuK4Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-la83t@lunch4breakfast-d5901.iam.gserviceaccount.com",
+  "client_id": "104714749595939718983",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-la83t%40lunch4breakfast-d5901.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
