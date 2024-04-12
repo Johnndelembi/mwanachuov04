@@ -47,7 +47,7 @@ def app():
             With Mwanachuo app student will be able to solve the problem of late information, and having to deal with less-detailed post.
             all the informations and updates from Mwanachuo app are authentic and true to the university community        
             ''')
-        result2.image('5.png', caption='A pie chart displaying research findings on the reasons as to why university student encounter unauthentic/unreliable information')
+        result2.image('5.PNG', caption='A pie chart displaying research findings on the reasons as to why university student encounter unauthentic/unreliable information')
         st.write( "___ ")
 
     result_container2 = st.container(border=True)
@@ -57,7 +57,7 @@ def app():
             reliability and authenticity means to your socio-academic well-being while on campus
             and that it matters when the information outlets thrive to uphold truth, and panctuality, a good information discharge from top to bottom ''')
         result3.markdown('''This means that students relly on sending/receiving information in their run-of-the-mill day-to-day university life''')
-        result4.image('7.png', caption='A histogram showing how much quality information and how and when they get the information means to students socio-academic well life on campus  ')
+        result4.image('7.PNG', caption='A histogram showing how much quality information and how and when they get the information means to students socio-academic well life on campus  ')
 
 
 
