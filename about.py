@@ -77,7 +77,7 @@ def app():
     with bottom2:
         container2 = st.container(border=True)   
         container2.image('profile-pic.png', width=150)
-        container2.markdown('  **[John Ndelembi](https://t.ly/uecuB)**')
+        container2.markdown('  **[John Ndelembi](https://earnest-puppy-53aea3.netlify.app)**')
 
     with bottom3:
         container3 = st.container(border=True)    
