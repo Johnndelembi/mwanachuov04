@@ -1,0 +1,8 @@
+a {
+    text-decoration: none;
+    color: black !important;
+    font-weight: 500;
+}
+
+#MainMenu {visibility: hidden;}
+header {visibility: hidden;}
